@@ -192,7 +192,7 @@ else:
             colorbar=dict(
                 title="Z-Score",
                 titleside="right"
-            ),
+            )
 
         ))
 
