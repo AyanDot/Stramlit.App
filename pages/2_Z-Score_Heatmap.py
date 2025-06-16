@@ -191,7 +191,7 @@ else:
             textfont={"size": 10},
             colorbar=dict(
                 title="Z-Score",
-                titleside="right"
+                title_side="right"
             )
 
         ))
